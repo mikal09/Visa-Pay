@@ -73,7 +73,7 @@ class _OrderHistoryScreenState extends State<OrderHistoryScreen> {
               TransactionList(
                 name: "McDonald's",
                 amount: 1399,
-                colour: Colors.lightblueAccent,
+                colour: Colors.lightBlueAccent,
               ),
             ],
           ),
