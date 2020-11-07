@@ -1,5 +1,6 @@
 package com.example.demo.ui.dto;
 
+@Component
 public class MerchantDto {
 	
 	private String merchantPrimaryAccountNumber;
